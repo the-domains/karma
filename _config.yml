@@ -1,0 +1,14 @@
+layout_spectrum: 0.2954671
+color:
+  saturation: 0.9076335
+  brandStrength: 0.8381184
+  lightness: 0.8678659
+  brandColors:
+    - '#000000'
+    - '#8F1000'
+    - '#FD8330'
+    - '#C61D25'
+    - '#CF895C'
+  rhythmicContrast: 0.2650989
+typography_spectrum: 0.2285034
+name: Karma
